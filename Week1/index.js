@@ -4,3 +4,4 @@ Week 1 Online Workshop
 */
 
 //Testing this
+console.log("Hello World");
